@@ -1,5 +1,7 @@
 # Chunk Player for Windows
 
+[Download 0.2.0-beta.1 installer](https://github.com/IDBIDO/chunk-player-releases/releases/download/v0.2.0-beta.1/ChunkPlayer-0.2.0-beta.1-windows-x64-setup.exe) · [Release notes, checksums and source](https://github.com/IDBIDO/chunk-player-releases/releases/tag/v0.2.0-beta.1)
+
 Learn English from local video and subtitles. Watch with a synchronized
 transcript, slow down and replay a sentence, practise listening or Say it, then
 review saved practice for the current video. Local learning needs no account.
