@@ -1,0 +1,20 @@
+Chunk Player beta evaluation terms
+
+Copyright (c) 2026 Chunk Player contributors.
+
+Permission is granted to download, install and run an officially distributed
+Chunk Player beta binary for personal evaluation and English learning. This
+permission does not grant access to, or a license to distribute, the private
+Chunk Player source code. The beta is provided as is, without warranty, to the
+extent permitted by applicable law. Statutory rights are not excluded.
+
+Third-party components are governed by their own licenses, provided in the
+licenses directory. These terms do not restrict rights granted by those licenses.
+In particular, they do not restrict modification of LGPL-covered components or
+reverse engineering for debugging those modifications. The dynamically loaded
+libmpv library may be replaced with an interface-compatible modified version;
+close the application before replacing library files.
+
+This beta does not include video, subtitles, the private dictionary or a voice
+model. Use learning material you are entitled to use. Optional third-party AI
+services require separate configuration and may incur provider charges.
